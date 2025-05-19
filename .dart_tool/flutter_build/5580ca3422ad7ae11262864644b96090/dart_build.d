@@ -1,0 +1,1 @@
+ C:\\Flutter\ projects\\Getx-LAB-2\\.dart_tool\\flutter_build\\5580ca3422ad7ae11262864644b96090\\dart_build_result.json: 
