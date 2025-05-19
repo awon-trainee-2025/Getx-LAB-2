@@ -1,0 +1,1 @@
+ /Users/zyadfallatah/Desktop/flutter-projects/Getx-LAB-2/.dart_tool/flutter_build/690f9b6b00d00b8f3da20e7b1b6a1472/native_assets.json: 
