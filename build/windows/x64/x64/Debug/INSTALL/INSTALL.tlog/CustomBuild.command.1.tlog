@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\GETX-LAB-2\BUILD\WINDOWS\X64\CMAKEFILES\2BC1D2761D31344BC6ED670F4DBC30F3\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

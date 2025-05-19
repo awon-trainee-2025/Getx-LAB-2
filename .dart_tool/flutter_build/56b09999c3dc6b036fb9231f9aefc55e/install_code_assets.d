@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Desktop\\Getx-LAB-2\\.dart_tool\\flutter_build\\56b09999c3dc6b036fb9231f9aefc55e\\native_assets.json: 
