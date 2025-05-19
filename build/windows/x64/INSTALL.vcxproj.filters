@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\Getx-LAB-2\build\windows\x64\CMakeFiles\0f59299f6cc99cc9363383f2c80133b8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FCC5121C-2D68-3861-9E07-F33D76CFEC83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
