@@ -1,0 +1,1 @@
+ C:\\Users\\deema\\GitHub\ repos\\Getx-LAB-2\\.dart_tool\\flutter_build\\a3c07f5cb65292f63f14f8258e523c69\\native_assets.json: 
