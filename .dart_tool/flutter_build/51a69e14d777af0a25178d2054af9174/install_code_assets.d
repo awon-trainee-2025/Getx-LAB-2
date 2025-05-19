@@ -1,0 +1,1 @@
+ C:\\flutterProject\\getx\\Getx-LAB-2_ammar\\.dart_tool\\flutter_build\\51a69e14d777af0a25178d2054af9174\\native_assets.json: 
