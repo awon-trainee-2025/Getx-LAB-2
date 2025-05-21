@@ -1,0 +1,1 @@
+ /Users/samalruhili/Desktop/Getx-LAB-2/.dart_tool/flutter_build/7ad7190a7ecc0c3f7940e3e93e58034f/dart_build_result.json: 
